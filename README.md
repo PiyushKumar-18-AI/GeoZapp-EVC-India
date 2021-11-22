@@ -16,9 +16,9 @@ The search for "electric car" is at an all-time high, according to Google Trends
 
 ## Other Resources to Our Application
 
-You can find a Blog on the Journey and what we have learnt on https://piyushkumar000018.medium.com/geozapp-evc-india-5306925b03d0
+You can find a <b>Blog</b> on the Journey and what we have learnt on https://piyushkumar000018.medium.com/geozapp-evc-india-5306925b03d0
 
 You can follow us on Our Social Media Handles where we post our Journey : 
 
-Twitter : https://twitter.com/GeoZapp_EVC_IND
+<b>Twitter</b> : https://twitter.com/GeoZapp_EVC_IND
 
