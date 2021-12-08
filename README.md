@@ -14,6 +14,10 @@ The world is moving towards the future, where everything is going to be streamli
 
 The search for "electric car" is at an all-time high, according to Google Trends, with queries more than tripling since 2009. This is a positive sign that the world is shifting to electric automobiles (EVs).
 
+## The innovation in this application:-
+
+There aren’t many charging facilities for electric vehicles (EVs). If you don’t know where you need to charge your electric vehicle, you might not be able to find it. Our initiative intends to assist street-based charging stations in detecting electric vehicles based on their location so that they may receive better location assistance.
+
 ## Other Resources to Our Application
 
 You can find a <b>Blog</b> on the Journey and what we have learnt on https://piyushkumar000018.medium.com/geozapp-evc-india-5306925b03d0
