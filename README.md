@@ -6,13 +6,13 @@ We'd like to introduce you to the <i><b>"GeoZapp-EVC India"</b></i> app, which a
 
 ![template (1)](https://user-images.githubusercontent.com/68659006/142808117-0e126bb2-541a-4e72-846d-205b48f076f1.png)
 
-## Overview
+## Abstract
 
 The world is moving towards the future, where everything is going to be streamlined and smart. In today's world, people are living a very fast-paced lifestyle and it's the era of innovation. The innovation in the field of transportation has resulted in the invention of electric vehicles. The cars are zero-emission environment friendly. Electric vehicles are also called EVs.
 
 ![30edb06ed2d78f683dac2e937a8968f0-removebg-preview](https://user-images.githubusercontent.com/68659006/142808182-472b8c10-429e-4d62-abe1-844aed53b66a.png)
 
-The search for "electric car" is at an all-time high, according to Google Trends, with queries more than tripling since 2009. This is a positive sign that the world is shifting to electric automobiles (EVs).
+The search for "Electric Cars" is at an all-time high, according to Google Trends, with queries more than tripling since 2009. This is a positive sign that the world is shifting to electric automobiles (EVs).
 
 ## The innovation in this application:-
 
